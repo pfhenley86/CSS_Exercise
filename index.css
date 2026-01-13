@@ -14,7 +14,7 @@ I could also do margin:24px auto I believe.
 **********/
 main{
     max-width: 500px;
-    margin:24px auto 24px auto;
+    margin:24px auto;
 }
 
 /*********
@@ -23,8 +23,7 @@ Exercise 4
 padding:16px makes the top,bottom, right and left 16px
 **********/
 section{
-    margin-top:24px; 
-    margin-bottom:24px;
+    margin:24px 0;
     border: 3px dotted orange;
     padding: 16px;
 }
@@ -67,5 +66,5 @@ I could also do margin:24px auto I believe.
 **********/
 #avatar{
     width: 100px;
-    margin:32px auto 32px auto;
+    margin:32px auto;
 }
