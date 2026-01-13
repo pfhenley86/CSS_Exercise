@@ -13,7 +13,7 @@ margin:24px auto 24px auto; makes the top and bottom 24px and the left and right
 I could also do margin:24px auto I believe.
 **********/
 main{
-    max-width: 500px;
+    max-width: 600px;
     margin:24px auto;
 }
 
